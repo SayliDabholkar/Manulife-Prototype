@@ -1,0 +1,6 @@
+{
+  "name": "Manulife Financial Literacy Academy",
+  "description": "An interactive, gamified Canadian financial literacy course focused on Group Pensions, RRSPs, TFSAs, employer matching, tax refund optimization, and an AI financial planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
